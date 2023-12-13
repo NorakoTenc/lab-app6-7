@@ -1,0 +1,24 @@
+.body {
+    text-align: start;
+    margin-top: -25px;
+    height: 824px;
+    min-height: 200px;
+    background: linear-gradient(180deg, #c580d8, #c595d1, #ead4f0 94%);
+  }
+  
+  .body h2 {
+    
+    padding-top: 10px;
+    margin-left: 24px;
+  }
+  
+  .body dl {
+    margin-top: -14px;
+    margin-left: -15px;
+  }
+  
+  .bodydiv {
+    text-align: start;
+    background: linear-gradient(180deg, #c580d8, #c595d1, #ead4f0 94%);
+    margin-top: 24px;
+  }
